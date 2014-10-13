@@ -114,7 +114,7 @@
     else{ ?>
         <form class="form-horizontal" action="<?php echo $mainPage; ?>" method="POST" >
             <fieldset>
-                <legend>You need to login first</legend>
+                <legend>You need to login first (default password: root)</legend>
                 <div class="form-group">
                     <div class="col-lg-4"></div>
                     <div class="col-lg-4">
