@@ -15,7 +15,7 @@ $MP3listPage = "mp3list.php";
 
 // Enable password to access the panel
 // 1 -> enable 0 -> disable
-$security = 1; 
+$security = 0; 
 
 // PHP::md5(); You can use md5.php to generate an other one
 // default : root
